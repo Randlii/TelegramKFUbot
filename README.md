@@ -15,3 +15,8 @@ t.me/kpfuhelperabiturienta_bot
 
 Так же возможно совершить регистрацию в боте, чтобы
 больше не вводить свои даные
+
+Для написания бота использовалис библиотеки:
+beautifulsoup4 
+request 
+pyTelegramAPIbot
