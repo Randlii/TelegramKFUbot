@@ -19,4 +19,5 @@ t.me/kpfuhelperabiturienta_bot
 Для написания бота использовалис библиотеки:
 beautifulsoup4 
 request 
-pyTelegramAPIbot
+telebot
+lxml
